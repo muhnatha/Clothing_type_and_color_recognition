@@ -1,5 +1,5 @@
 # Clothing_type_and_color_recognition
-This repository contains the Jupyter Notebook used for my data science project during the national-scale data science competition, **Hology**. The goal of this project is to identify clothes is it Tshir or hoodie and which color is it, red, white, black, or blue. The notebook demonstrates the application of various data science techniques, including data preprocessing, feature engineering, machine learning, and result analysis. The goal of this project
+This repository contains the Jupyter Notebook used for my data science project during the national-scale data science competition, **Hology**. The goal of this project is to identify clothes is it Tshir or hoodie and which color is it, red, white, black, or blue. The notebook demonstrates the application of various data science techniques, including data preprocessing, feature engineering, machine learning, and result analysis. 
 
 # Dataset :
 You can obtain the dataset by executing the following command in your terminal:
