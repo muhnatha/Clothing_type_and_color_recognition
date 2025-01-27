@@ -8,18 +8,25 @@ kaggle competitions download -c penyisihan-hology-7-data-mining-competition
 ```
 
 Dataset Description:
+
 The dataset consists of 1,111 product images of T-shirts and hoodies, collected manually from various online stores in Indonesia, with the following details:
 
-train.zip: Contains 777 images of T-shirts and hoodies in 5 different colors for training data.
+train.zip: 
 
-train.csv: A CSV file containing labels for each product image in the training data:
+Contains 777 images of T-shirts and hoodies in 5 different colors for training data.
+
+train.csv: 
+
+A CSV file containing labels for each product image in the training data:
 
 - id: A unique ID for each product image in the training data.
 - jenis: Type of clothing (0: T-shirt, 1: Hoodie).
 - warna: Clothing color (0: Red, 1: Yellow, 2: Blue, 3: Black, 4: White).
 test.zip: Contains 334 product images of T-shirts and hoodies for classification purposes.
 
-submission.csv: Example of a submission file in CSV format:
+submission.csv: 
+
+Example of a submission file in CSV format:
 
 - id: A unique ID for each product image in the test data.
 - jenis: Type of clothing (0: T-shirt, 1: Hoodie).
