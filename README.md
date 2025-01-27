@@ -3,8 +3,9 @@ This repository contains the Jupyter Notebook used for my data science project d
 
 # Dataset :
 You can obtain the dataset by executing the following command in your terminal:
-
-'''kaggle competitions download -c penyisihan-hology-7-data-mining-competition'''
+'''sh
+kaggle competitions download -c penyisihan-hology-7-data-mining-competition
+'''
 
 Dataset Description:
 The dataset consists of 1,111 product images of T-shirts and hoodies, collected manually from various online stores in Indonesia, with the following details:
